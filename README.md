@@ -1,10 +1,10 @@
 # How to install the dashboard in your Laravel project
 
-#### Copy `./frontend/admin` folder into your Laravel's public folder
+#### Copy `./frontend/admin` folder into your Laravel's `public` folder
 
-#### Copy `./admin` folder into your Laravel's resources/views folder
+#### Copy `./admin` folder into your Laravel's `resources/views` folder
 
-#### Copy `dashboard.php` file into your Laravel's resources/views/layouts folder
+#### Copy `dashboard.php` file into your Laravel's `resources/views/layouts` folder, if `layouts` folder does not exist, create it
 
 #### Create a controller e.g DashboardController then a function called home(you can call it anything you want)eg.
 
